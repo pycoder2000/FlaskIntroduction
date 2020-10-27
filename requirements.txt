@@ -35,7 +35,7 @@ configparser==5.0.1
 consonance==0.1.2
 constantly==15.1.0
 coverage==5.2.1
-cryptography==3.0
+cryptography==3.2
 crystalmethod==3.0.0
 cssselect==1.1.0
 cvxpy==1.1.3
