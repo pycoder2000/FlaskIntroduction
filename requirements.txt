@@ -173,7 +173,7 @@ pycparser==2.20
 PyDispatcher==2.0.5
 pyfiglet==0.8.post1
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pyinstaller==4.0
 pyinstaller-hooks-contrib==2020.9
